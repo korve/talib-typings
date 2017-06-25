@@ -1,0 +1,17 @@
+{
+  "name": "talib-typings",
+  "version": "1.0.0",
+  "description": "TS typings for node-talib",
+  "main": "src/talib.js",
+  "dependencies": {},
+  "devDependencies": {
+    "talib": "^1.0.3"
+  },
+  "scripts": {},
+  "keywords": [
+    "typescript",
+    "talib"
+  ],
+  "author": "Andre Eckardt <aeckardt@outlook.com>",
+  "license": "MIT"
+}
